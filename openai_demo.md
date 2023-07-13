@@ -1,5 +1,5 @@
 # ChatGPT-learning
-ChatGPT的学习笔记。
+如何调用GPT-3 API通过输入的提示词prompt读取一段文本并输出一句话的摘要。
 - 调用GPT-3 API的源代码
 ```python
 #GPT-3 API 演示程序Python代码
