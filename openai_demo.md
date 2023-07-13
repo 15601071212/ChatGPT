@@ -48,4 +48,8 @@ The text emphasizes the importance of providing clear and specific instructions 
 suggesting that longer prompts can often provide more clarity and context for the model,
 resulting in more detailed and relevant responses.
 ```
-
+### 参数表
+| Option      |    Value      | 
+| :---------- |:-------------:| 
+| model       | gpt-3.5-turbo |  
+| temperature |             0 | 
