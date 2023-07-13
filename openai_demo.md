@@ -1,4 +1,5 @@
 #GPT-3 API 演示程序Python代码
+'''
 import openai
 import os
 
@@ -37,3 +38,4 @@ into a single sentence.
 
 response = get_completion(prompt)
 print(response)
+'''
