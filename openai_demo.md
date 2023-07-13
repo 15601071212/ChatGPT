@@ -1,6 +1,7 @@
-#GPT-3 API 演示程序Python代码
-'''python
-'import openai'
-'import os'
-'''
+# langchain-learning
+langchain的学习笔记。依赖：
 
+```python
+openai==0.27.8
+langchian==0.0.225
+```
