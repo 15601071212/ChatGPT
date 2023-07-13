@@ -49,3 +49,8 @@ suggesting that longer prompts can often provide more clarity and context for th
 resulting in more detailed and relevant responses.
 ```
 
+```sequence
+User->ChatGPT: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+User-->ChatGPT: I am good thanks!
+```
