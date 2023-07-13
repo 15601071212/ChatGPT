@@ -1,6 +1,7 @@
 # ChatGPT-learning
 ChatGPT的学习笔记。
-
+- 调用GPT-3 API的源代码
+- 程序运行输出结果
 ```python
 #GPT-3 API 演示程序Python代码
 import openai
