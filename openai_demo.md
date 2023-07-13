@@ -1,7 +1,6 @@
 # ChatGPT-learning
 ChatGPT的学习笔记。
 - 调用GPT-3 API的源代码
-- 程序运行输出结果
 ```python
 #GPT-3 API 演示程序Python代码
 import openai
@@ -43,5 +42,5 @@ into a single sentence.
 response = get_completion(prompt)
 print(response)
 ```
-程序运行输出结果：
+- 程序运行输出结果：
 The text emphasizes the importance of providing clear and specific instructions to guide a model towards the desired output, suggesting that longer prompts can often provide more clarity and context for the model, resulting in more detailed and relevant responses.
