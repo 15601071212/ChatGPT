@@ -43,4 +43,6 @@ response = get_completion(prompt)
 print(response)
 ```
 - 程序运行输出结果：
+```python
 The text emphasizes the importance of providing clear and specific instructions to guide a model towards the desired output, suggesting that longer prompts can often provide more clarity and context for the model, resulting in more detailed and relevant responses.
+```
