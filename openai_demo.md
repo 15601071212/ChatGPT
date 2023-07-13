@@ -48,3 +48,9 @@ The text emphasizes the importance of providing clear and specific instructions 
 suggesting that longer prompts can often provide more clarity and context for the model,
 resulting in more detailed and relevant responses.
 ```
+### 表格
+| Item      |    Value | Qty  |
+| :-------- | --------:| :--: |
+| Computer  | 1600 USD |  5   |
+| Phone     |   12 USD |  12  |
+| Pipe      |    1 USD | 234  |
