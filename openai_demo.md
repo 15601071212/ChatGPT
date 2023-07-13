@@ -1,7 +1,7 @@
 #GPT-3 API 演示程序Python代码
 '''python
-import openai
-import os
+'import openai'
+'import os'
 
 openai.api_key  = os.getenv('OPENAI_API_KEY')
 
